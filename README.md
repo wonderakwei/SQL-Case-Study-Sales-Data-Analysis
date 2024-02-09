@@ -1,4 +1,4 @@
-# SQL Case Study 1: Data Mart Analysis
+# SQL Case Study : Data Mart Analysis
 
 ## Overview
 Explore the sales and performance of Data Dart, a venture that underwent significant changes in June 2020, introducing sustainable packaging methods across its supply chain. The objective is to quantify the impact of these changes on sales performance and various business areas.
